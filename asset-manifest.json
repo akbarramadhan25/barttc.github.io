@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/akbarramadhan25/barttc.github.io.git/static/css/main.fc7a39aa.css",
+    "main.js": "/akbarramadhan25/barttc.github.io.git/static/js/main.6bdad764.js",
+    "static/js/787.ea372cc2.chunk.js": "/akbarramadhan25/barttc.github.io.git/static/js/787.ea372cc2.chunk.js",
+    "static/media/ttc.jpg": "/akbarramadhan25/barttc.github.io.git/static/media/ttc.27cb8bbb71caf8eea615.jpg",
+    "index.html": "/akbarramadhan25/barttc.github.io.git/index.html",
+    "main.fc7a39aa.css.map": "/akbarramadhan25/barttc.github.io.git/static/css/main.fc7a39aa.css.map",
+    "main.6bdad764.js.map": "/akbarramadhan25/barttc.github.io.git/static/js/main.6bdad764.js.map",
+    "787.ea372cc2.chunk.js.map": "/akbarramadhan25/barttc.github.io.git/static/js/787.ea372cc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7a39aa.css",
+    "static/js/main.6bdad764.js"
+  ]
+}
